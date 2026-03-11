@@ -32,13 +32,9 @@ Contact     : pramothsekar@gmail.com
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=ai&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF2D95?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,tensorflow,pytorch,figma,mysql" />
+</p>
 
 ---
 
@@ -46,13 +42,55 @@ Contact     : pramothsekar@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRAMOTH-S&show_icons=true&theme=radical)
 
+
+---
+
+
+##  Open Source
+
+I am interested in contributing to open-source projects related to:
+- Artificial Intelligence
+- Machine Learning
+- Python Development
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOTH-S&layout=compact&theme=radical)
+
+
+---
+
+## Interest in Artificial Intelligence
+
+I am deeply interested in **Artificial Intelligence and Machine Learning**, particularly in building intelligent systems that can solve real-world problems.  
+I enjoy exploring concepts such as **Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing**, and applying them through practical projects and experiments.
+
+Currently, I am focusing on strengthening my knowledge in **AI fundamentals, data analysis, and model development** while continuously learning new tools and technologies in the AI ecosystem.
 
 ---
 
 ## Contribution Graph
 
 ![Pacman](https://raw.githubusercontent.com/PRAMOTH-S/PRAMOTH-S/output/pacman-contribution-graph-dark.svg)
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="mailto:pramothsekar@gmail.com">
+<img src="https://img.shields.io/badge/Email-pramothsekar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PRAMOTH-S">
+<img src="https://img.shields.io/badge/GitHub-PRAMOTH--S-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pramoth-s-299806222/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
