@@ -41,22 +41,9 @@ Contact     : pramothsekar@gmail.com
 
   
 <img src="https://github-readme-stats.vercel.app/api?username=PRAMOTH-S&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOTH-S&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-## Open Source
-
-I am interested in contributing to open-source projects related to:
-
-- Artificial Intelligence  
-- Machine Learning  
-- Python Development
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOTH-S&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 ---
