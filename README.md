@@ -46,7 +46,7 @@ Contact     : pramothsekar@gmail.com
 
 ---
 
-## 🚀 Open Source
+## Open Source
 
 I am interested in contributing to open-source projects related to:
 
