@@ -59,7 +59,9 @@ Currently, I am focusing on strengthening my knowledge in **AI fundamentals, dat
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+Always learning, always coding, and always improving through hands-on development and real-world projects.
 </p>
+
 
 ---
 
