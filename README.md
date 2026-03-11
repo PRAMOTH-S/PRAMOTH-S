@@ -30,7 +30,7 @@ Contact     : pramothsekar@gmail.com
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/iconsi=python,ai,opencv,java,idea,git,github,vscode,mysql,firebase,html,css,javascript,netlify,arduino,matlab,figma,notion,windows" />
+  <img src="https://skillicons.dev/icons?i=python,ai,opencv,java,idea,git,github,vscode,mysql,firebase,html,css,javascript,netlify,arduino,matlab,figma,notion,windows" />
 </p>
 
 ---
