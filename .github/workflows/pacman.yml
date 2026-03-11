@@ -2,7 +2,7 @@ name: Generate Pacman
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: RESH-22
+          github_user_name: PRAMOTH-S
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
