@@ -14,6 +14,8 @@ PRAMOTH-S/PRAMOTH-S is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 ## 🎮 Contribution Graph
 
-![Pacman Contribution](https://raw.githubusercontent.com/PRAMOTH-S/PRAMOTH-S/output/pacman-contribution-graph.svg)
+![Pacman](https://raw.githubusercontent.com/PRAMOTH-S/PRAMOTH-S/output/pacman-contribution-graph-dark.svg)
