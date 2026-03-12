@@ -1,155 +1,237 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00C9FF&height=220&section=header&text=PRAMOTH%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20ECE%20Engineer%20%7C%20Builder&descAlignY=60&descSize=18&descColor=aaddff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d1b2a,60:1a3a5c,100:00b4d8&height=250&section=header&text=PRAMOTH%20S&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20ECE%20Graduate&descAlignY=62&descSize=20&descColor=90e0ef"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Neural+Networks;👁️+Computer+Vision+Engineering;💬+Natural+Language+Processing;📊+Data+Analytics+%26+Visualization;🚀+Transforming+Ideas+into+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=🤖+AI+%26+ML+Developer;🧠+Deep+Learning+Enthusiast;🐍+Python+Programmer;👁️+Computer+Vision+Builder;💬+NLP+Explorer;🚀+Building+Innovative+Solutions)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PRAMOTH-S&color=00C9FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/PRAMOTH-S?style=flat-square&color=00b4d8&labelColor=0d1b2a&label=Followers&logo=github)](https://github.com/PRAMOTH-S)
+[![Profile Views](https://komarev.com/ghpvc/?username=PRAMOTH-S&color=00b4d8&style=flat-square&label=Profile+Views)](https://github.com/PRAMOTH-S)
+[![Years Badge](https://badges.pufler.dev/years/PRAMOTH-S?style=flat-square&color=00b4d8&labelColor=0d1b2a)](https://github.com/PRAMOTH-S)
+[![Repos Badge](https://badges.pufler.dev/repos/PRAMOTH-S?style=flat-square&color=00b4d8&labelColor=0d1b2a)](https://github.com/PRAMOTH-S)
 
 </div>
 
 ---
 
-## 🖥️ Developer Profile
-```bash
-╔══════════════════════════════════════════════════════════╗
-║              > INITIALIZING DEVELOPER PROFILE...         ║
-╠══════════════════════════════════════════════════════════╣
-║  Name        : Pramoth S                                 ║
-║  Education   : Electronics & Communication Engineering   ║
-║  Role        : Aspiring AI & Software Developer          ║
-║  Skills      : Python │ Java │ SQL │ UI/UX               ║
-║  Interests   : AI │ ML │ Computer Vision │ NLP           ║
-║  Status      : Learning • Building • Improving           ║
-║  Goal        : Develop innovative AI solutions           ║
-║  Contact     : pramothsekar@gmail.com                    ║
-╠══════════════════════════════════════════════════════════╣
-║              > SYSTEM READY ✅                           ║
-╚══════════════════════════════════════════════════════════╝
+## 👨‍💻 Developer Profile
+
+```python
+class PramothS:
+    def __init__(self):
+        self.name         = "Pramoth S"
+        self.role         = "Aspiring AI & Software Developer"
+        self.education    = "Electronics & Communication Engineering (ECE)"
+        self.location     = "India 🇮🇳"
+        self.email        = "pramothsekar@gmail.com"
+
+    @property
+    def skills(self):
+        return {
+            "languages"  : ["Python", "Java", "SQL", "HTML/CSS", "JavaScript"],
+            "ai_ml"      : ["TensorFlow", "PyTorch", "scikit-learn", "OpenCV", "NLTK"],
+            "analytics"  : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Tableau", "Power BI"],
+            "tools"      : ["Git", "GitHub", "VS Code", "Figma", "Firebase", "Arduino"],
+        }
+
+    @property
+    def currently(self):
+        return {
+            "learning"   : "LLMs, Generative AI & MLOps",
+            "building"   : "AI-powered real-world applications",
+            "goal"       : "Develop innovative technology solutions",
+            "status"     : "Open to opportunities 🚀",
+        }
+
+    def greet(self):
+        return "Welcome to my GitHub! Let's build something amazing together 🤝"
+
+me = PramothS()
+print(me.greet())
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 🤖 Artificial Intelligence & Machine Learning
 <div align="center">
 
-### Languages & AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-### AI / ML / CV
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+</div>
 
-### Web & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+### 📊 Data Analytics & Visualization
+<div align="center">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</div>
+
+### 💻 Languages & Web Development
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
+
+</div>
+
+### ⚙️ Tools, Platforms & Design
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🙋 About Me
 
-<div align="center">
+<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PRAMOTH-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=00C9FF&text_color=ffffff&border_radius=10"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PRAMOTH-S&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C9FF&ring=00C9FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C9FF&sideLabels=aaddff&dates=aaddff&border_radius=10"/>
+### Who am I?
 
-<br/>
+I'm **Pramoth S**, an **Electronics & Communication Engineering** graduate with a deep passion for **Artificial Intelligence**, **Machine Learning**, and **Data Analytics**. I love transforming raw data and algorithms into intelligent systems that solve meaningful, real-world challenges.
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOTH-S&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&text_color=ffffff&border_radius=10"/>
+### What drives me?
 
-</div>
+- 🔬 **Research mindset** — I explore the *why* behind every model and algorithm
+- 🛠️ **Builder by nature** — I believe in learning by doing — every project teaches something new
+- 📊 **Data storyteller** — I turn complex datasets into clear, actionable visual insights
+- 🌍 **Impact-focused** — I build technology that creates real-world value
 
----
+### What I'm doing now?
 
-## 🌱 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/PRAMOTH-S/PRAMOTH-S/output/pacman-contribution-graph-dark.svg)
-
-<br/>
-
-<!-- Activity Graph - Full Heatmap View -->
-[![Pramoth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRAMOTH-S&bg_color=0d1117&color=00C9FF&line=004e92&point=00FFFF&area=true&area_color=004e9240&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🤖 AI Learning Journey
-
-<div align="center">
-
-| Module | Topic | Status |
-|--------|-------|--------|
-| 01 | Python Programming | ✅ Completed |
-| 02 | Data Analysis & Visualization | ✅ Completed |
-| 03 | Machine Learning Models | ✅ Completed |
-| 04 | Deep Learning & Neural Networks | ✅ Completed |
-| 05 | Computer Vision Projects | ✅ Completed |
-| 06 | NLP Applications | ✅ Completed |
-| 07 | LLMs & Generative AI | 🔄 In Progress |
-| 08 | MLOps & Deployment | 🎯 Next Up |
-
-</div>
-
----
-
-## 💡 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-I'm deeply passionate about **Artificial Intelligence and Machine Learning**, focused on building intelligent systems that solve real-world problems.
-
-🔬 **Exploring:** Machine Learning, Deep Learning, Computer Vision, NLP
-
-📚 **Currently:** Strengthening AI fundamentals, data analysis, and model development
-
-🛠️ **Building:** Practical projects that bridge theory and real-world applications
-
-🎯 **Goal:** Create impactful AI solutions that make a difference
-
-> *"Always learning, always coding, always improving."*
+- 🤖 Exploring **Large Language Models (LLMs)** and **Generative AI**
+- 📊 Deepening expertise in **Data Analytics pipelines** and dashboards
+- ☁️ Learning **MLOps** and cloud-based model deployment
+- 🤝 Open to **collaborations**, **internships**, and **research opportunities**
 
 <br clear="right"/>
 
 ---
 
-## 📫 Connect With Me
+## 🧭 AI & Data Learning Journey
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-pramothsekar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pramothsekar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PRAMOTH--S-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRAMOTH-S)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pramoth-s-299806222/)
-
-<br/>
-
-⭐ *If you find my projects interesting, consider starring them!* ⭐
+| # | Domain | Skills Covered | Status |
+|---|--------|----------------|--------|
+| 01 | **Python for AI** | Core Python, OOP, Libraries | ✅ Mastered |
+| 02 | **Data Analytics** | Pandas, NumPy, EDA, Statistics | ✅ Mastered |
+| 03 | **Data Visualization** | Matplotlib, Seaborn, Tableau, Power BI | ✅ Mastered |
+| 04 | **Machine Learning** | Regression, Classification, Clustering, SVM | ✅ Mastered |
+| 05 | **Deep Learning** | ANN, CNN, RNN, LSTM, Transfer Learning | ✅ Mastered |
+| 06 | **Computer Vision** | Image Processing, Object Detection, OpenCV | ✅ Mastered |
+| 07 | **NLP** | Text Classification, Sentiment Analysis, Transformers | ✅ Mastered |
+| 08 | **Generative AI & LLMs** | Prompt Engineering, Fine-tuning, RAG | 🔄 In Progress |
+| 09 | **MLOps & Deployment** | Docker, FastAPI, CI/CD, Cloud Hosting | 🎯 Upcoming |
+| 10 | **Advanced Data Engineering** | SQL Optimization, Pipelines, Spark | 🎯 Upcoming |
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00C9FF&height=120&section=footer"/>
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PRAMOTH-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&ring_color=00b4d8&border_radius=12&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=PRAMOTH-S&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakNum=caf0f8&sideNums=caf0f8&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=90e0ef&border_radius=12"/>
+
+<br/>
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOTH-S&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&border_radius=12&langs_count=8"/>
+&nbsp;&nbsp;
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMOTH-S&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+[![Pramoth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRAMOTH-S&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&area_color=023e8a&hide_border=true&radius=6&custom_title=Pramoth's%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![Snake animation](https://raw.githubusercontent.com/PRAMOTH-S/PRAMOTH-S/output/pacman-contribution-graph-dark.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PRAMOTH-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:pramothsekar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-pramothsekar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/PRAMOTH-S">
+  <img src="https://img.shields.io/badge/GitHub-PRAMOTH--S-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/pramoth-s-299806222/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pramoth%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> 💡 *"The best way to predict the future is to build it."*
+>
+> ⭐ **If you find my work valuable, consider starring my repositories!**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:0a0a0f&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65"/>
+
+</div>
