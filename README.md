@@ -169,11 +169,6 @@ I'm **Pramoth S**, an **Electronics & Communication Engineering** graduate with 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=PRAMOTH-S&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakNum=caf0f8&sideNums=caf0f8&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=90e0ef&border_radius=12"/>
 
 <br/>
-
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAMOTH-S&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=caf0f8&border_radius=12&langs_count=8"/>
-&nbsp;&nbsp;
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PRAMOTH-S&theme=tokyonight"/>
-
 </div>
 
 ---
