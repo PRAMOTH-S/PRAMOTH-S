@@ -193,23 +193,28 @@ I'm **Pramoth S**, an **Electronics & Communication Engineering** graduate with 
 <div align="center">
 
 <a href="mailto:pramothsekar@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-pramothsekar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-pramothsekar%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=0d1117&color=0077b6"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/PRAMOTH-S">
-  <img src="https://img.shields.io/badge/GitHub-PRAMOTH--S-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-PRAMOTH--S-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d1117&color=0077b6"/>
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/pramoth-s-299806222/">
-  <img src="https://img.shields.io/badge/LinkedIn-Pramoth%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Pramoth%20S-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d1117&color=0077b6"/>
 </a>
 
-<br/><br/>
+</div>
 
-> 💡 *"The best way to predict the future is to build it."*
->
+<br/>
+
+<div align="center">
+
+> 💡 *"The best way to predict the future is to build it."*  
 > ⭐ **If you find my work valuable, consider starring my repositories!**
 
 </div>
