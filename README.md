@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=🤖+Building+Intelligent+AI+Systems;🧠+Deep+Learning+%26+Neural+Networks;👁️+Computer+Vision+Engineering;💬+Natural+Language+Processing;📊+Data+Analytics+%26+Visualization;🚀+Transforming+Ideas+into+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Systems;Deep+Learning+%26+Neural+Networks;Computer+Vision+Engineering;Natural+Language+Processing;Data+Analytics+%26+Visualization;Transforming+Ideas+into+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 Developer Profile
+## Developer Profile
 
 ```python
 class PramothS:
@@ -57,9 +57,9 @@ print(me.greet())
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🤖 Artificial Intelligence & Machine Learning
+### Artificial Intelligence & Machine Learning
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -72,7 +72,7 @@ print(me.greet())
 
 </div>
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 <div align="center">
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -86,7 +86,7 @@ print(me.greet())
 
 </div>
 
-### 💻 Languages & Web Development
+### Languages & Web Development
 <div align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -98,7 +98,7 @@ print(me.greet())
 
 </div>
 
-### ⚙️ Tools, Platforms & Design
+### Tools, Platforms & Design
 <div align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -114,7 +114,7 @@ print(me.greet())
 
 ---
 
-## 🙋 About Me
+## About Me
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -140,7 +140,7 @@ I'm **Pramoth S**, an **Electronics & Communication Engineering** graduate with 
 
 ---
 
-## 🧭 AI & Data Learning Journey
+## AI & Data Learning Journey
 
 <div align="center">
 
@@ -161,7 +161,7 @@ I'm **Pramoth S**, an **Electronics & Communication Engineering** graduate with 
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -178,7 +178,7 @@ I'm **Pramoth S**, an **Electronics & Communication Engineering** graduate with 
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -186,23 +186,14 @@ I'm **Pramoth S**, an **Electronics & Communication Engineering** graduate with 
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/PRAMOTH-S/PRAMOTH-S/output/pacman-contribution-graph-dark.svg)
+![Pac Man animation](https://raw.githubusercontent.com/PRAMOTH-S/PRAMOTH-S/output/pacman-contribution-graph-dark.svg)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PRAMOTH-S&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
