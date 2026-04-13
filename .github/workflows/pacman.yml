@@ -1,4 +1,4 @@
-name: Generate Pacma
+name: Generate Pacman
 
 on:
   schedule:
